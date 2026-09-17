@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNJgaEHtxCQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nesto\\OneDrive - Escuela Especializada en Ingeniería ITCA-FEPADE\\Platzi\\Git\\miPrimerRepo\\proyecto1\\probando\\probando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nesto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Newtonsoft.Json\" 12.0.3 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\nesto\\OneDrive - Escuela Especializada en Ingeniería ITCA-FEPADE\\Platzi\\Git\\miPrimerRepo\\proyecto1\\probando\\probando.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\nesto\\OneDrive - Escuela Especializada en Ingeniería ITCA-FEPADE\\Platzi\\Git\\miPrimerRepo\\proyecto1\\probando\\probando.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
